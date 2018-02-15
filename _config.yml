@@ -1,3 +1,2 @@
 title: Project Documentation
-
-theme: jekyll-theme-leap-day
+remote_theme: azure-immersion/docs-jekyll-theme
